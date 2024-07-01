@@ -1,0 +1,3 @@
+-- Autocmds are automatically loaded on the VeryLazy event
+-- Default autocmds that are always set: https://github.com/jayzone91/JayVim/blob/main/lua/jayvim/config/autocmds.lua
+-- Add any additional autocmds here

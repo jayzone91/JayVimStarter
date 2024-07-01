@@ -1,0 +1,3 @@
+-- Keymaps are automatically loaded on the VeryLazy event
+-- Default keymaps that are always set: https://github.com/jayzone91/JayVim/blob/main/lua/jayvim/config/keymaps.lua
+-- Add any additional keymaps here
